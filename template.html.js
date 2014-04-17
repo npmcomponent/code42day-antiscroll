@@ -1,0 +1,1 @@
+module.exports = '<div id="antiscroll-size-detection"\n  class="antiscroll-inner"\n  style="width:50px;height:50px;overflow-y:scroll;position:absolute;top:-200px;left:-200px;">\n  <div style="height:100px;width:100%"/>\n</div>\n';
